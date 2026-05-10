@@ -4,17 +4,14 @@ REST API built with Node.js, Express, and MongoDB.
 
 ## Setup
 
-```bash
-npm install
-```
-
 Create a `.env` file:
 ```
-MONGO_URI=(yout mongo db URL)
+MONGO_URI=(YOUR_MONGODB-URL-HERE)
 PORT=3000s
 ```
-
+//Download Zip from here open in cmd
 ```bash
+npm install
 npm start
 ```
 
